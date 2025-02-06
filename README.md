@@ -1,2 +1,1 @@
-# roguelike-survivor-game
-A repository for an endless roguelike survivor game
+This repository is empty. Any task executed on it should be considered a new capability and needs to be created.
